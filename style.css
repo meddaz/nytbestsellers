@@ -1,0 +1,36 @@
+body {
+    background-color: #F5F5DC
+    ;
+    color: #222;
+    max-width: 100%;
+    height: auto;
+}
+
+div {
+    display: inline-block;
+}
+
+footer {
+    float: right;
+}
+
+header {
+    font-weight: lighter;
+}
+h1 {
+    
+    font-family:  georgia, 'times new roman', times, serif;
+}
+
+.book-img {
+    height: 50%;
+    width: 100px;
+float: left;
+    padding-right: 20px;
+    
+}
+
+
+#display {
+    font-family: 'Gentium Book Basic', serif;
+}
